@@ -1,7 +1,7 @@
 Algoritmo "CompraComDesconto"
 
 // Descrição   : Calcular o valor total de uma compra após aplicar 10% de desconto.
-// Autor(a)    : Ana Beatriz Rosa
+// Autor(a)    : Ana Beatriz
 // Data atual  : 10/10/2026
 
 Var
