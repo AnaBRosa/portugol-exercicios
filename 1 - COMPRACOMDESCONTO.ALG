@@ -14,4 +14,4 @@ Inicio
    ValorFinal <- ValorInicial-(ValorInicial * 10/100)
    escreval ("A COMPRA COM DESCONTO DEU =  ", ValorFinal)
 
-Fimalgoritmo
+Fimalgoritmo 
