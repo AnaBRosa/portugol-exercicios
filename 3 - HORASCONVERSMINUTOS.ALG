@@ -1,15 +1,15 @@
 Algoritmo "HorasConvertidasEmMinutos"
 // 
 //  
-// Descrição   : Converte Horas em Minutos
+// DescriÃ§Ã£o   : Converte Horas em Minutos
 // Autor(a)    : Ana Beatriz
 // Data atual  : 08/10/2026
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
   h, min: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
      escreva ("Quantas horas quer converter: ")
      leia (h)
      min <- h*60
