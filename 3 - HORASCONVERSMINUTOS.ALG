@@ -1,4 +1,4 @@
-Algoritmo "HorasConvertidasEmMinutos"
+Algoritmo "HorasConvertidasEmMinutos" 
 // 
 //  
 // Descrição   : Converte Horas em Minutos
