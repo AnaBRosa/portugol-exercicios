@@ -1,0 +1,18 @@
+Algoritmo "Media Aluno"
+
+Var
+N1, N2, N3, media: real
+
+Inicio
+escreva ("Nota 1: ")
+leia (N1)
+escreva ("Nota 2: ")
+leia (N2)
+escreva ("Nota 3: ")
+leia (N3)
+
+media <- (N1+N2+N3)/3
+
+escreval ("A media do aluno é: ", media)
+
+Fimalgoritmo
